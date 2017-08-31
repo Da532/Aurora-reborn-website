@@ -80,7 +80,7 @@ h1 {
 
     display: inline-block;
 
-    max-width: 10em;
+    max-width: 6em;
 
 }
 
@@ -108,7 +108,7 @@ h2 {
 
 .medium {
 
-    max-width:80em;
+    max-width:70em;
 
     text-align:center;
 
