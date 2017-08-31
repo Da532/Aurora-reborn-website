@@ -12,15 +12,6 @@
 
 
 
-html {
-
-    overflow-y: hidden;
-    text-align: center
-
-}
-
-
-
 div#container {
 
     max-width: 75em;
