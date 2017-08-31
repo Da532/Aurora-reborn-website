@@ -1,16 +1,14 @@
 .header {
-
-    width: 100%;
-
-    text-align: center;
-
-    color: #fff;
-
-    background-color: #0d001e
-
-}
-
-
+    
+        width: 100%;
+    
+        text-align: center;
+    
+        color: #fff;
+    
+        background-color: #6bbcdc;
+    
+    }
 
 div#container {
 
@@ -36,31 +34,11 @@ body {
 
 }
 
-
-
-.linky {
-
-    font-size: 3em;
-
-}
-
-
-
 i {
 
     transition: all 0.25s;
 
 }
-
-
-
-i:hover {
-
-   transform: scale(1.5);
-
-}
-
-
 
 h1 {
 
@@ -69,8 +47,6 @@ h1 {
     cursor: default;
 
 }
-
-
 
 .brand {
 
@@ -84,8 +60,6 @@ h1 {
 
 }
 
-
-
 h2 {
 
     font-weight: thin;
@@ -93,18 +67,6 @@ h2 {
     font-size: 3em;
 
 }
-
-.small {
-
-    max-width:50em;
-
-    text-align:center;
-
-    margin:auto;
-
-}
-
-
 
 .medium {
 
@@ -116,32 +78,11 @@ h2 {
 
 }
 
-
-
-.shrink {
-
-    border-radius: 50%;
-
-    background-color: #ddd;
-
-    display: inline-block;
-
-    max-width: 7em;
-
-}
-
-
-
 .footer {
 
     color:#fff;
 
-    background-color: #0d001e;
+    background-color: #6bbcdc;
 
     padding: 4em
-
-
-
-
-
 }
