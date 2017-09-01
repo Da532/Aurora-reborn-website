@@ -1,88 +1,53 @@
 .header {
-    
-        width: 100%;
-    
-        text-align: center;
-    
-        color: #fff;
-    
-        background-color: #6bbcdc;
-    
-    }
-
-div#container {
-
-    max-width: 75em;
-
-    margin: 0 auto;
-
-    color: #000;
-
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  background-color: #6bbcdc;
 }
 
-
+div#container {
+  max-width: 75em;
+  margin: 0 auto;
+  color: #000;
+}
 
 body {
-
-    height: 100%;
-
-    width: 100%;
-
-    color: #000;
-
-    text-align: center;
-
+  height: 100%;
+  width: 100%;
+  color: #000;
+  text-align: center;
+  font-family: 'Encode Sans Semi Condensed', 'Roboto', 'Helvetica', sans-serif;
 }
 
 i {
-
-    transition: all 0.25s;
-
+  transition: all 0.25s;
 }
 
 h1 {
-
-    font-size: 2em;
-
-    cursor: default;
-
+  font-size: 2em;
+  cursor: default;
 }
 
 .brand {
-
-    border-radius: 50%;
-
-    background-color: #ddd;
-
-    display: inline-block;
-
-    max-width: 6em;
-
+  border-radius: 50%;
+  background-color: #ddd;
+  display: inline-block;
+  max-width: 6em;
 }
 
 h2 {
-
-    font-weight: thin;
-
-    font-size: 3em;
-
+  font-weight: thin;
+  font-size: 3em;
 }
 
 .medium {
-
-    max-width:70em;
-
-    text-align:center;
-
-    margin:auto;
-
+  max-width: 70em;
+  text-align: center;
+  margin: auto;
 }
 
 .footer {
-
-    color:#fff;
-
-    background-color: #6bbcdc;
-
-    padding: 4em
+  color: #fff;
+  background-color: #6bbcdc;
+  padding: 4em
 }
