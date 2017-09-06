@@ -66,6 +66,10 @@ h2 {
 
 }
 
+.ceo {
+    border: 5px solid #5ce5ff;
+}
+
 .medium {
 
     max-width:70em;
